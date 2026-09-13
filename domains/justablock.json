@@ -4,7 +4,8 @@
     "email": "bdfd000@gmail.com"
   },
   "records": {
-    "CNAME": "justablockcode.github.io"
+    "CNAME": "justablockcode.github.io",
+    "TXT._github-pages-challenge-JustablockCode": "1ffe73e21dcba30e6997f2123bb62f"
   },
   "proxied": false
 }
