@@ -4,6 +4,6 @@
     "email": "mukeshmohanty623@gmail.com"
   },
   "records": {
-    "CNAME": "mukeshmohanty.vercel.app"
+    "A": ["216.198.79.1"]
   }
 }
